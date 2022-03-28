@@ -29,21 +29,6 @@ escreva("\nA soma dos valores é igual a "+soma)
 escreva("\nA soma da diagonal é igual a "+diagonal)
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -51,7 +36,7 @@ escreva("\nA soma da diagonal é igual a "+diagonal)
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 622; 
+ * @POSICAO-CURSOR = 603; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {matriz, 10, 8, 6};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
